@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.jboss.netty_netty_3.2.5.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jboss.netty/netty/bundles/netty-3.2.5.Final.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

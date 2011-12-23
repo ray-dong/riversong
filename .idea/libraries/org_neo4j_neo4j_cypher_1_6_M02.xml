@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.neo4j_neo4j-cypher_1.6.M02">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.neo4j/neo4j-cypher/jars/neo4j-cypher-1.6.M02.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

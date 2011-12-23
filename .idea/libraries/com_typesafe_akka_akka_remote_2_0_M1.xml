@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.typesafe.akka_akka-remote_2.0-M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-remote/jars/akka-remote-2.0-M1.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>

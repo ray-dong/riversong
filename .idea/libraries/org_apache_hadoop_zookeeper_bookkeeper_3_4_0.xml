@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.apache.hadoop.zookeeper_bookkeeper_3.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hadoop.zookeeper/bookkeeper/jars/bookkeeper-3.4.0.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES> </SOURCES>
+  </library>
+</component>
