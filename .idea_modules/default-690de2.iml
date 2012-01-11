@@ -1,67 +1,87 @@
-<module version="4" type="JAVA_MODULE">
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
   <component name="FacetManager">
-    <facet name="Scala" type="scala">
+    <facet type="scala" name="Scala">
       <configuration>
-        <option name="compilerLibraryLevel" value="Project"></option>
-        <option name="compilerLibraryName" value="scala-2.9.1"></option>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="scala-2.9.1" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="false">
-    <output url="file://$MODULE_DIR$/../target/scala-2.9.1/classes"></output>
-    <output-test url="file://$MODULE_DIR$/../target/scala-2.9.1/test-classes"></output-test>
-    <exclude-output></exclude-output>
-    <content url="file:///work/soc2011/riversong">
-      <sourceFolder url="file://$MODULE_DIR$/../src/main/scala" isTestSource="false"></sourceFolder>
-      <sourceFolder url="file://$MODULE_DIR$/../src/main/java" isTestSource="false"></sourceFolder>
-      <sourceFolder url="file://$MODULE_DIR$/../src/main/resources" isTestSource="false"></sourceFolder>
-      <sourceFolder url="file://$MODULE_DIR$/../src/test/scala" isTestSource="true"></sourceFolder>
-      <sourceFolder url="file://$MODULE_DIR$/../src/test/java" isTestSource="true"></sourceFolder>
-      <sourceFolder url="file://$MODULE_DIR$/../src/test/resources" isTestSource="true"></sourceFolder>
-      <excludeFolder url="file://$MODULE_DIR$/../target"></excludeFolder>
+    <output url="file://$MODULE_DIR$/../target/scala-2.9.1/classes" />
+    <output-test url="file://$MODULE_DIR$/../target/scala-2.9.1/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/..">
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../target" />
     </content>
-    <orderEntry type="inheritedJdk"></orderEntry>
-    <orderEntry type="sourceFolder" forTests="false"></orderEntry>
-    <orderEntry level="project" name="org.scala-lang_scala-library_2.9.1" type="library"></orderEntry>
-    <orderEntry level="project" name="com.typesafe.akka_akka-actor_2.0-M1" type="library"></orderEntry>
-    <orderEntry level="project" name="com.typesafe.akka_akka-slf4j_2.0-M1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.slf4j_slf4j-api_1.6.4" type="library"></orderEntry>
-    <orderEntry level="project" name="com.typesafe.akka_akka-kernel_2.0-M1" type="library"></orderEntry>
-    <orderEntry level="project" name="com.typesafe.akka_akka-remote_2.0-M1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.hadoop.zookeeper_bookkeeper_3.4.0" type="library"></orderEntry>
-    <orderEntry level="project" name="commons-codec_commons-codec_1.4" type="library"></orderEntry>
-    <orderEntry level="project" name="commons-io_commons-io_2.0.1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.guiceyfruit_guice-all_2.0" type="library"></orderEntry>
-    <orderEntry level="project" name="voldemort.store.compress_h2-lzf_1.0" type="library"></orderEntry>
-    <orderEntry level="project" name="org.codehaus.jackson_jackson-core-asl_1.8.0" type="library"></orderEntry>
-    <orderEntry level="project" name="org.codehaus.jackson_jackson-mapper-asl_1.8.0" type="library"></orderEntry>
-    <orderEntry level="project" name="org.jboss.netty_netty_3.2.5.Final" type="library"></orderEntry>
-    <orderEntry level="project" name="com.google.protobuf_protobuf-java_2.4.1" type="library"></orderEntry>
-    <orderEntry level="project" name="net.debasishg_sjson_2.9.1_0.15" type="library"></orderEntry>
-    <orderEntry level="project" name="net.databinder_dispatch-json_2.9.1_0.8.5" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.httpcomponents_httpclient_4.1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.httpcomponents_httpcore_4.1" type="library"></orderEntry>
-    <orderEntry level="project" name="commons-logging_commons-logging_1.1.1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.objenesis_objenesis_1.2" type="library"></orderEntry>
-    <orderEntry level="project" name="zkclient_zkclient_0.3" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.hadoop.zookeeper_zookeeper_3.4.0" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.hadoop.zookeeper_zookeeper-recipes-lock_3.4.0" type="library"></orderEntry>
-    <orderEntry level="project" name="com.googlecode.disruptor_disruptor_2.7.1" type="library"></orderEntry>
-    <orderEntry level="project" name="com.espertech_esper_4.4.0" type="library"></orderEntry>
-    <orderEntry level="project" name="log4j_log4j_1.2.16" type="library"></orderEntry>
-    <orderEntry level="project" name="org.antlr_antlr-runtime_3.2" type="library"></orderEntry>
-    <orderEntry level="project" name="org.antlr_stringtemplate_3.2" type="library"></orderEntry>
-    <orderEntry level="project" name="antlr_antlr_2.7.7" type="library"></orderEntry>
-    <orderEntry level="project" name="cglib_cglib-nodep_2.2" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-kernel_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.geronimo.specs_geronimo-jta_1.1_spec_1.1.1" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-lucene-index_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.apache.lucene_lucene-core_3.1.0" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-graph-algo_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-udc_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-graph-matching_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-cypher_1.6.M02" type="library"></orderEntry>
-    <orderEntry level="project" name="org.neo4j_neo4j-jmx_1.6.M02" type="library"></orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.scala-lang_scala-library_2.9.1" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-actor_2.0-M1" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-slf4j_2.0-M1" level="project" />
+    <orderEntry type="library" name="org.slf4j_slf4j-api_1.6.4" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-kernel_2.0-M1" level="project" />
+    <orderEntry type="library" name="com.typesafe.akka_akka-remote_2.0-M1" level="project" />
+    <orderEntry type="library" name="org.apache.hadoop.zookeeper_bookkeeper_3.4.0" level="project" />
+    <orderEntry type="library" name="commons-codec_commons-codec_1.4" level="project" />
+    <orderEntry type="library" name="commons-io_commons-io_2.0.1" level="project" />
+    <orderEntry type="library" name="org.guiceyfruit_guice-all_2.0" level="project" />
+    <orderEntry type="library" name="voldemort.store.compress_h2-lzf_1.0" level="project" />
+    <orderEntry type="library" name="org.codehaus.jackson_jackson-core-asl_1.8.0" level="project" />
+    <orderEntry type="library" name="org.codehaus.jackson_jackson-mapper-asl_1.8.0" level="project" />
+    <orderEntry type="library" name="org.jboss.netty_netty_3.2.5.Final" level="project" />
+    <orderEntry type="library" name="com.google.protobuf_protobuf-java_2.4.1" level="project" />
+    <orderEntry type="library" name="net.debasishg_sjson_2.9.1_0.15" level="project" />
+    <orderEntry type="library" name="net.databinder_dispatch-json_2.9.1_0.8.5" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpclient_4.1" level="project" />
+    <orderEntry type="library" name="org.apache.httpcomponents_httpcore_4.1" level="project" />
+    <orderEntry type="library" name="commons-logging_commons-logging_1.1.1" level="project" />
+    <orderEntry type="library" name="org.objenesis_objenesis_1.2" level="project" />
+    <orderEntry type="library" name="zkclient_zkclient_0.3" level="project" />
+    <orderEntry type="library" name="org.apache.hadoop.zookeeper_zookeeper_3.4.0" level="project" />
+    <orderEntry type="library" name="org.apache.hadoop.zookeeper_zookeeper-recipes-lock_3.4.0" level="project" />
+    <orderEntry type="library" name="com.googlecode.disruptor_disruptor_2.7.1" level="project" />
+    <orderEntry type="library" name="com.espertech_esper_4.4.0" level="project" />
+    <orderEntry type="library" name="log4j_log4j_1.2.16" level="project" />
+    <orderEntry type="library" name="org.antlr_antlr-runtime_3.2" level="project" />
+    <orderEntry type="library" name="org.antlr_stringtemplate_3.2" level="project" />
+    <orderEntry type="library" name="antlr_antlr_2.7.7" level="project" />
+    <orderEntry type="library" name="cglib_cglib-nodep_2.2" level="project" />
+    <orderEntry type="library" name="org.slf4j_slf4j-simple_1.6.4" level="project" />
+    <orderEntry type="library" name="org.slf4j_log4j-over-slf4j_1.6.4" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-kernel_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.apache.geronimo.specs_geronimo-jta_1.1_spec_1.1.1" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-lucene-index_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.apache.lucene_lucene-core_3.1.0" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-graph-algo_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-udc_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-graph-matching_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-cypher_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.neo4j_neo4j-jmx_1.6.M02" level="project" />
+    <orderEntry type="library" name="org.scalaz_scalaz-core_2.9.1_6.0.3" level="project" />
+    <orderEntry type="library" name="org.scalaz_scalaz-http_2.9.1_6.0.3" level="project" />
+    <orderEntry type="library" name="javax.servlet_servlet-api_2.5" level="project" />
+    <orderEntry type="library" name="net.databinder_unfiltered-filter_2.9.1_0.5.3" level="project" />
+    <orderEntry type="library" name="net.databinder_unfiltered_2.9.1_0.5.3" level="project" />
+    <orderEntry type="library" name="net.databinder_unfiltered-util_2.9.1_0.5.3" level="project" />
+    <orderEntry type="library" name="net.databinder_unfiltered-jetty_2.9.1_0.5.3" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-webapp_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-xml_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-util_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-servlet_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-security_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-server_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-continuation_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-http_7.5.4.v20111024" level="project" />
+    <orderEntry type="library" name="org.eclipse.jetty_jetty-io_7.5.4.v20111024" level="project" />
   </component>
 </module>
+

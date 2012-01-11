@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty_jetty-xml_7.5.4.v20111024">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.jetty/jetty-xml/jars/jetty-xml-7.5.4.v20111024.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

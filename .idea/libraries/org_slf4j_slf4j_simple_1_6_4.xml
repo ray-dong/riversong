@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.slf4j_slf4j-simple_1.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
