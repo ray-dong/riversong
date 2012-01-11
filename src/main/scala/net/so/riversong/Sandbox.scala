@@ -27,4 +27,19 @@ object Sandbox {
     epService.getEPRuntime.sendEvent(Map("itemName" -> "shirt", "price" -> 60.5), "OrderEvent")
   }
 
+
+
+  //behaviours to model
+  //steady state, monitor
+  //slow leak
+  //intermittent response time, over a period
+  //bursty, spikes
+  //single api, is fully stuffed
+  //create clean noise
+
+  //start a client
+  def client() {
+
+  }
+
 }
